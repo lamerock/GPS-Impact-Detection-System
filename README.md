@@ -11,16 +11,6 @@ The GPS Impact Detection System detects impacts using an FSR, sends SMS alerts w
 5. Jumper wires
 6. USB cable for Arduino board power
 
-## Step-by-step instructions
-
-### Hardware Components Required:
-1. Arduino board (e.g., Arduino Uno)
-2. GPS module (e.g., NEO-6M GPS module)
-3. GSM module (e.g., SIM800L GSM module)
-4. Force-sensitive resistor (FSR)
-5. Jumper wires
-6. USB cable for Arduino board power
-
 ### Connections:
 1. Connect the Arduino board to your computer using the USB cable for power.
 2. Connect the GPS module to the Arduino board:
